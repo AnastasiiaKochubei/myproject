@@ -8,6 +8,7 @@
 
 <?php
 $url = "https://google.com";
+echo "Test";
 
 ?>
 
