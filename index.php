@@ -28,13 +28,15 @@ $fruite = "apple";
 echo ${$fruite};
 ?>
 <br>
+<h>27062019</h>
+
 <?php
 
 
-$value = 5;
+$value = 10;
 echo $value = $value + 5, "<br>";
 echo $value = $value * 5, "<br>";
-
+echo $value = $value / 5, "<br>";
 
 $a = $b = $c = $d = 2;
 
